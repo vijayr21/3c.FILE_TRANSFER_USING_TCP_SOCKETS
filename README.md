@@ -55,8 +55,10 @@ while True:
 ```
 ## OUPUT
 client:
+
 ![Screenshot 2024-05-11 165425](https://github.com/vijayr21/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/149347607/0731db10-2c01-429b-b12c-61a52b0b1aed)
 server:
+
 ![Screenshot 2024-05-11 165431](https://github.com/vijayr21/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/149347607/dce80be4-6f0d-4950-9087-b809d594e34f)
 
 ## RESULT
